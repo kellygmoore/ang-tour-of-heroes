@@ -1,3 +1,5 @@
+//------based of Angular Tour of Heroes tutorial-----//
+
 import { NgModule }      from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule }   from '@angular/forms';
